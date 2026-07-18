@@ -1,0 +1,5 @@
+{
+  "title": "Провайдеры",
+  "description": "Руководства по интеграции конкретных провайдеров",
+  "pages": ["CLAUDE_WEB", "AGENTROUTER", "ZED-DOCKER"]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Архитектура",
+  "pages": [
+    "ARCHITECTURE",
+    "AUTHZ_GUIDE",
+    "CODEBASE_DOCUMENTATION",
+    "REPOSITORY_MAP",
+    "RESILIENCE_GUIDE",
+    "QUALITY_GATES"
+  ]
+}
